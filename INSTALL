@@ -1,0 +1,9 @@
+Building Paisa
+
+See doc/readme-qt.rst for instructions on building Paisa-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Paisa.
+
+See doc/build-*.txt for instructions on building paisad,
+the intended-for-services, no-graphical-interface, reference
+implementation of Paisa.
